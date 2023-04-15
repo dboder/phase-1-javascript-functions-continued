@@ -10,4 +10,3 @@ function wrapAdjective(arg = "*"){
         return `You are ${arg}${name}${arg}!`;
     };
 }
-document()
